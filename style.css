@@ -1,0 +1,97 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.first-container .second-container{
+    border: 2px solid red;
+    width: 1440px;
+    height: 104px;
+}
+
+.navbar-brand{
+    width: 185px;
+    height: 70px;
+    top: 21px;
+    margin-left: 100px;
+}
+
+.nav-item a{
+    font-family:Avenir Next;
+    font-weight:bold;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+}
+
+
+
+.second-container{
+    width: 1440px;
+    height: 593px;
+ 
+}
+.second-container img{
+    padding-right: 150px;
+   margin-top: 90px;
+    width: 1440px;
+    height: 500px;
+}
+
+.login-password{
+   width: 500px;
+   top: 50%;
+   left:50%;
+   transform: translate(-50%, -50%);
+   position: absolute;
+}
+
+.login-password h2{
+   font-family:poppins;
+   font-weight:bold;
+   font-style: normal;
+   font-size: 48px;
+   line-height: 120%;
+}
+
+.login-password input{
+   width:417px;
+   height: 45px;
+   background: #f2f2f2;
+   border: 3px solid #000000;
+   box-sizing: border-box;
+   border-radius: 2px;
+}
+
+.login-password p{font-family:Avenair Next ;
+   font-weight:bold;
+   font-style: normal;
+   font-size: 20px;
+   line-height: 33px;
+   letter-spacing:0.205em;
+   color: black;
+
+}
+
+.login-password button{
+   font-family:poppins;
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 36px;
+   
+}
+
+.login-password button{
+    width: 420px;
+    border-radius: 10px;
+}
+
+
+.third-container ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 150%;
+}
